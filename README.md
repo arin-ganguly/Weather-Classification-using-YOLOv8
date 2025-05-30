@@ -11,7 +11,7 @@ This project uses YOLOv8 (You Only Look Once - Version 8) to classify and predic
 - **Validation_batch_sample**:
 - ![val_batch0_labels](https://github.com/user-attachments/assets/4fea421c-fd2a-4293-b6a9-a2d83e0f6090)
 - ![val_batch0_pred](https://github.com/user-attachments/assets/e882f083-e849-437a-9de6-fbcb4c4b70a1)
-**You can see the full validation batch in the 'runs'-folder** 
+- **You can see the full validation batch in the 'runs'-folder** 
 
 
 ---
