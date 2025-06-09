@@ -1,4 +1,4 @@
-# Weather Prediction using YOLOv8 🌦️🔍
+# Weather Classification using YOLOv8 🌦️🔍
 
 This project uses YOLOv8 (You Only Look Once - Version 8) to classify and predict different weather conditions from images. The model is trained to recognize weather classes such as **sunny**, **cloudy**, **rainy**, **sunrise**, etc., making it useful for real-time weather condition detection from live feeds or image datasets.
 
